@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheeonnect",
+        "uuid": 7961744,
+        "checksum": "jtyge"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
